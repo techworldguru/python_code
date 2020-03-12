@@ -1,0 +1,11 @@
+To install PyMySQL module, download it from PyMySQL Download page and proceed as follows:
+
+link : https://pypi.python.org/pypi/PyMySQL/0.7.9
+
+download the required version library
+unzip the tar.gz file
+navigate to that folder in DOS prompt
+then
+execute the below command
+
+python setup.py install

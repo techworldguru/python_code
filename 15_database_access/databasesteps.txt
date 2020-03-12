@@ -1,0 +1,48 @@
+
+database steps
+---------------
+
+
+
+list of available databases
+--------------------------
+show databases ;
+
+create database
+----------------------
+create database accenture ;
+
+list of available databases
+--------------------------
+show databases ;
+
+enter into your database
+-------------------------
+use accenture ;
+
+
+display tables
+-----------------
+show tables ;
+
+creating the table
+-----------------
+
+create table employee( FirstName varchar(100) , Gender varchar(10) );
+
+
+inserting records
+------------------
+insert into employee values("Douglas","Male") ;
+
+insert into employee values("Thomas","Male");
+
+
+How to display the records
+----------------------------
+
+select * from employee ;
+
+
+
+
